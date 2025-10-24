@@ -1,6 +1,0 @@
-Keyword (11): int, main, int, int, if, print, else, print, int, while, print
-Identifier (13): a, b, a, b, a, b, b, a, i, i, i, i, i
-Constant (5): 5, 3, 0, 3, 1
-Operator (9): =, =, >, -, -, =, <, =, +
-Punctuation (27): (, ), {, ;, ;, (, ), {, (, ), ;, }, {, (, ), ;, }, ;, (, ), {, (, ), ;, ;, }, }
-Comment (0): -
